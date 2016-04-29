@@ -10,7 +10,7 @@ class DefaultController extends Controller
     {
         return $this->render('FoodTruckBundle:Default:index.html.twig');
     }
-    
+
     public function jessicaAction(){
 
         die('I am jessica');

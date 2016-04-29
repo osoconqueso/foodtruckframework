@@ -1,4 +1,6 @@
 /app/config/parameters.yml
+.idea
+.vagrant
 /build/
 /phpunit.xml
 /var/*
