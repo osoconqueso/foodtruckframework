@@ -1,0 +1,7 @@
+food_truck_homepage:
+    path:     /
+    defaults: { _controller: FoodTruckBundle:Default:index }
+
+jessica_route:
+    path: /jessica
+    defaults: { _controller: FoodTruckBundle:Default:jessica }

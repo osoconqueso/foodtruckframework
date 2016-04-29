@@ -1,0 +1,4 @@
+services:
+#    food_truck.example:
+#        class: FoodTruckBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
